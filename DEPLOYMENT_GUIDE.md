@@ -135,7 +135,7 @@ git push -u origin main
 ## 6. Deploy on Render (one service: UI + API)
 
 1. render.com → **New → Blueprint** → connect the GitHub repo. Render reads `render.yaml`.
-   (Manual alternative: New → Web Service, Runtime Node, Build command `npm --prefix client ci && npm --prefix client run build && npm --prefix server ci --omit=dev`, Start command `npm --prefix server start`, Health check path `/api/health`.)
+   (Manual alternative: New → Web Service, Runtime Node, Build command `npm --prefix client ci --include=dev && npm --prefix client run build && npm --prefix server ci --omit=dev`, Start command `npm --prefix server start`, Health check path `/api/health`.)
 2. When asked, fill the variables marked "sync: false": `MONGODB_URI`, `GEMINI_API_KEY` (and `GROQ_API_KEY` if used). `JWT_SECRET` and `CERT_SECRET` are generated for you.
 3. Deploy. The first build takes a few minutes. Open the `https://<name>.onrender.com` URL.
 4. On first start the server loads the demo organisation in the background. Give it 1 to 2 minutes, then sign in with `admin@novabrew.test` / `Demo@1234`. (If you already ran `npm run seed` locally against the same Atlas database, it is already there.)

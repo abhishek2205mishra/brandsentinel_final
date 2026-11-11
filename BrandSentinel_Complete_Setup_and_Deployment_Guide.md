@@ -337,7 +337,7 @@ MONGODB_DB=brandsentinel_test npm run test:mongo
    | Runtime | Node |
    | Branch | `main` |
    | Root Directory | (leave empty) |
-   | Build Command | `npm --prefix client ci && npm --prefix client run build && npm --prefix server ci --omit=dev` |
+   | Build Command | `npm --prefix client ci --include=dev && npm --prefix client run build && npm --prefix server ci --omit=dev` |
    | Start Command | `npm --prefix server start` |
    | Instance type | **Free** |
    | Health Check Path | `/api/health` |

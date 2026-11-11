@@ -4,7 +4,7 @@ services:
     name: brandsentinel
     runtime: node
     plan: free
-    buildCommand: npm --prefix client ci && npm --prefix client run build && npm --prefix server ci --omit=dev
+    buildCommand: npm --prefix client ci --include=dev && npm --prefix client run build && npm --prefix server ci --omit=dev
     startCommand: npm --prefix server start
     healthCheckPath: /api/health
     autoDeploy: true

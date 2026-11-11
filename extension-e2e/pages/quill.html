@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Story editor (Quill)</title>
+    <link rel="stylesheet" href="/vendor/quill/quill.snow.css" />
+  </head>
+  <body style="font-family: system-ui; max-width: 760px; margin: 30px auto">
+    <h1>New story (Quill, a Medium-style rich text editor)</h1>
+    <div id="editor" style="height: 260px"></div>
+    <script src="/vendor/quill/quill.js"></script>
+    <script>
+      window.quill = new Quill("#editor", {
+        theme: "snow",
+        placeholder: "Write your story…",
+      });
+    </script>
+  </body>
+</html>

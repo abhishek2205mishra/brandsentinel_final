@@ -1,0 +1,1 @@
+{ "name": "brandsentinel-ui-e2e", "private": true, "version": "1.0.0", "scripts": { "test": "node run.js" }, "dependencies": { "playwright": "*" } }

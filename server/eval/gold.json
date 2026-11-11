@@ -1,0 +1,394 @@
+[
+ {
+  "id": 1,
+  "text": "Our new roast is India's #1 coffee.",
+  "expect": [
+   "claims.superlative"
+  ]
+ },
+ {
+  "id": 2,
+  "text": "Fastest delivery in the city.",
+  "expect": [
+   "claims.superlative"
+  ]
+ },
+ {
+  "id": 3,
+  "text": "Guaranteed to wake you up.",
+  "expect": [
+   "claims.absolute"
+  ]
+ },
+ {
+  "id": 4,
+  "text": "Our blend is clinically proven to help you focus.",
+  "expect": [
+   "claims.health"
+  ]
+ },
+ {
+  "id": 5,
+  "text": "Our beans are better than other brands.",
+  "expect": [
+   "claims.comparative"
+  ]
+ },
+ {
+  "id": 6,
+  "text": "Subscribe for guaranteed returns on every cup.",
+  "expect": [
+   "claims.financial"
+  ]
+ },
+ {
+  "id": 7,
+  "text": "Made with 100% organic beans.",
+  "expect": []
+ },
+ {
+  "id": 8,
+  "text": "Enjoy carbon neutral shipping.",
+  "expect": [
+   "claims.expired"
+  ]
+ },
+ {
+  "id": 9,
+  "text": "Our bags use eco-friendly packaging.",
+  "expect": [
+   "claims.environmental"
+  ]
+ },
+ {
+  "id": 10,
+  "text": "Our coffee is sustainably sourced from small farms.",
+  "expect": []
+ },
+ {
+  "id": 11,
+  "text": "Enjoy 30% off during our festive offer.",
+  "expect": [
+   "facts.conflict"
+  ]
+ },
+ {
+  "id": 12,
+  "text": "Enjoy 20% off during our festive offer.",
+  "expect": []
+ },
+ {
+  "id": 13,
+  "text": "The 250g bag costs ₹299.",
+  "expect": [
+   "facts.conflict"
+  ]
+ },
+ {
+  "id": 14,
+  "text": "The 250g bag costs ₹349.",
+  "expect": []
+ },
+ {
+  "id": 15,
+  "text": "We offer free shipping on every order.",
+  "expect": [
+   "facts.expired"
+  ]
+ },
+ {
+  "id": 16,
+  "text": "The tasting box is available until 1 Jan 2020.",
+  "expect": [
+   "facts.stale_date"
+  ]
+ },
+ {
+  "id": 17,
+  "text": "Welcome to Nova Brew.",
+  "expect": [
+   "terminology.banned"
+  ]
+ },
+ {
+  "id": 18,
+  "text": "Welcome to NovaBrew.",
+  "expect": []
+ },
+ {
+  "id": 19,
+  "text": "A cheap and cheerful morning brew.",
+  "expect": [
+   "terminology.banned"
+  ]
+ },
+ {
+  "id": 20,
+  "text": "Join the reel!! Wow!! Share it!",
+  "expect": [
+   "tone.exclaim"
+  ]
+ },
+ {
+  "id": 21,
+  "text": "Hurry, this is a mind-blowing offer.",
+  "expect": [
+   "tone.hype"
+  ]
+ },
+ {
+  "id": 22,
+  "text": "Please ORDER now before the week ends.",
+  "expect": [
+   "tone.caps"
+  ]
+ },
+ {
+  "id": 23,
+  "text": "Fresh roast 🔥🔥🔥 ☕ is here.",
+  "expect": [
+   "tone.emoji"
+  ]
+ },
+ {
+  "id": 24,
+  "text": "Let us delve into the flavour notes.",
+  "expect": [
+   "tone.ai_boilerplate"
+  ]
+ },
+ {
+  "id": 25,
+  "kind": "html",
+  "text": "<p>Meet the blend.</p><img src=\"blend.jpg\">",
+  "expect": [
+   "a11y.alt_missing"
+  ]
+ },
+ {
+  "id": 26,
+  "kind": "html",
+  "text": "<h1>Winter</h1><h3>Blends</h3><p>Warm up.</p>",
+  "expect": [
+   "a11y.heading_order"
+  ]
+ },
+ {
+  "id": 27,
+  "kind": "html",
+  "text": "<p><a href=\"/menu\">Click here</a> for the menu.</p>",
+  "expect": [
+   "a11y.link_text"
+  ]
+ },
+ {
+  "id": 28,
+  "kind": "html",
+  "text": "<p style=\"color:#bbbbbb;background:#ffffff\">Soft grey text.</p>",
+  "expect": [
+   "a11y.contrast"
+  ]
+ },
+ {
+  "id": 29,
+  "kind": "html",
+  "text": "<p style=\"color:#8a0050\">Fresh pink.</p>",
+  "expect": [
+   "visual.palette"
+  ]
+ },
+ {
+  "id": 30,
+  "kind": "html",
+  "text": "<p style=\"font-family: 'Comic Sans MS'\">Hello there.</p>",
+  "expect": [
+   "visual.font"
+  ]
+ },
+ {
+  "id": 31,
+  "kind": "html",
+  "text": "<img src=\"logo.png\" alt=\"NovaBrew logo\" width=\"300\" height=\"200\">",
+  "expect": [
+   "visual.logo_distorted"
+  ]
+ },
+ {
+  "id": 32,
+  "kind": "markdown",
+  "text": "Look at this.\n\n![](roast.png)",
+  "expect": [
+   "a11y.alt_missing"
+  ]
+ },
+ {
+  "id": 33,
+  "ai": true,
+  "text": "Our blend is smooth and gentle.",
+  "expect": [
+   "provenance.disclosure"
+  ]
+ },
+ {
+  "id": 34,
+  "ai": true,
+  "text": "Our blend is smooth and gentle. Created with AI assistance.",
+  "expect": []
+ },
+ {
+  "id": 35,
+  "text": "यह सस्ता कॉफ़ी है।",
+  "expect": [
+   "terminology.banned"
+  ]
+ },
+ {
+  "id": 36,
+  "text": "Slow Saturday mornings call for a gentle pour-over.",
+  "expect": []
+ },
+ {
+  "id": 37,
+  "text": "Tell us your best brew story.",
+  "expect": []
+ },
+ {
+  "id": 38,
+  "text": "Best wishes from the NovaBrew team.",
+  "expect": []
+ },
+ {
+  "id": 39,
+  "text": "Start the year with a warm cup #newyearnewcoffee",
+  "expect": [
+   "a11y.hashtag"
+  ]
+ },
+ {
+  "id": 40,
+  "text": "Read more at https://novabrew.test/cheap-beans today.",
+  "expect": []
+ },
+ {
+  "id": 41,
+  "text": "Welcome to Novabrw, where every cup is small-batch.",
+  "expect": [
+   "terminology.fuzzy"
+  ]
+ },
+ {
+  "id": 42,
+  "text": "Our artisinal roast is back for the season.",
+  "expect": [
+   "terminology.fuzzy"
+  ]
+ },
+ {
+  "id": 43,
+  "text": "NovaBrewe beans are roasted every week.",
+  "expect": [
+   "terminology.fuzzy"
+  ]
+ },
+ {
+  "id": 44,
+  "text": "Visit novabrew.test for the new roast.",
+  "expect": []
+ },
+ {
+  "id": 45,
+  "text": "Our award-winning roast is here.",
+  "expect": [
+   "claims.award"
+  ]
+ },
+ {
+  "id": 46,
+  "text": "Clinically tested to keep you calm.",
+  "expect": [
+   "claims.health"
+  ]
+ },
+ {
+  "id": 47,
+  "text": "Dermatologist approved packaging.",
+  "expect": [
+   "claims.health"
+  ]
+ },
+ {
+  "id": 48,
+  "text": "Enjoy a lifetime guarantee on every grinder.",
+  "expect": [
+   "claims.absolute"
+  ]
+ },
+ {
+  "id": 49,
+  "text": "Our manpower is small but passionate.",
+  "expect": [
+   "terminology.banned"
+  ]
+ },
+ {
+  "id": 50,
+  "text": "Add this address to the whitelist for updates.",
+  "expect": [
+   "terminology.banned"
+  ]
+ },
+ {
+  "id": 51,
+  "text": "Last chance to join the tasting.",
+  "expect": [
+   "tone.hype"
+  ]
+ },
+ {
+  "id": 52,
+  "text": "Act now and bring a friend.",
+  "expect": [
+   "tone.hype"
+  ]
+ },
+ {
+  "id": 53,
+  "text": "Thank you for your best effort this season.",
+  "expect": []
+ },
+ {
+  "id": 54,
+  "text": "Our baristas wish you the very best this winter.",
+  "expect": []
+ },
+ {
+  "id": 55,
+  "text": "We roast on Tuesdays and ship on Thursdays.",
+  "expect": []
+ },
+ {
+  "id": 56,
+  "text": "Join our tasting on Saturday. Everyone is welcome.",
+  "expect": []
+ },
+ {
+  "id": 57,
+  "text": "The cup warms your hands on a cold morning.",
+  "expect": []
+ },
+ {
+  "id": 58,
+  "text": "Meet the team behind the roast: Asha, Kabir and Meera.",
+  "expect": []
+ },
+ {
+  "id": 59,
+  "text": "Brewing guide: grind fresh, pour slowly, wait four minutes.",
+  "expect": []
+ },
+ {
+  "id": 60,
+  "text": "Our new roast tastes like toasted hazelnut and dark chocolate.",
+  "expect": []
+ }
+]

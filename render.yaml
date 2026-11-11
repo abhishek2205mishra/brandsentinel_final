@@ -1,0 +1,41 @@
+# Render Blueprint: one web service that serves both the API and the built React app.
+services:
+  - type: web
+    name: brandsentinel
+    runtime: node
+    plan: free
+    buildCommand: npm --prefix client ci && npm --prefix client run build && npm --prefix server ci --omit=dev
+    startCommand: npm --prefix server start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: MONGODB_DB
+        value: brandsentinel
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CERT_SECRET
+        generateValue: true
+      - key: LLM_PROVIDER
+        value: gemini
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: SEED_DEMO
+        value: "true"
+      - key: ALLOW_REGISTRATION
+        value: "true"
+      - key: PUBLIC_URL
+        sync: false
+      - key: EMAIL_PROVIDER
+        value: none
+      - key: BREVO_API_KEY
+        sync: false
+      - key: EMAIL_FROM
+        sync: false

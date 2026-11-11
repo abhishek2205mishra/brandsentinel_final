@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BrandSentinel</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+<header><img src="icons/icon48.png" alt="" width="36" height="36"><div><h1>BrandSentinel</h1><p>Check your writing against your brand, where you write it.</p></div></header>
+<main>
+  <label>Server address<input id="server" type="url" placeholder="https://YOUR-APP.onrender.com" autocomplete="off" spellcheck="false"></label>
+  <label>API key<span class="key"><input id="key" type="password" placeholder="bsk_…" autocomplete="off" spellcheck="false"><button type="button" id="eye" class="ghost" aria-label="Show key">Show</button></span></label>
+  <p class="hint">Create a key on your BrandSentinel <b>Account</b> page. It is kept only in this browser.</p>
+  <div class="row"><button id="save" class="pri">Save and test connection</button><button id="open" class="ghost" type="button">Open dashboard</button></div>
+  <div id="status" role="status" aria-live="polite"></div>
+  <hr>
+  <label class="chk"><input id="auto" type="checkbox"> Check automatically when I stop typing</label>
+  <label class="chk"><input id="deep" type="checkbox"> Deep check by default (uses the AI assistant)</label>
+  <label>Content type<select id="channel"><option value="social">Social post</option><option value="email">Email</option><option value="blog">Blog</option><option value="web">Web page</option><option value="paid-ad">Paid ad</option><option value="press-release">Press release</option><option value="internal">Internal</option></select></label>
+  <button id="off" class="link" type="button">Disconnect and forget key</button>
+</main>
+<script src="popup.js"></script>
+</body></html>

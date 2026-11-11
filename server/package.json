@@ -1,0 +1,40 @@
+{
+  "name": "brandsentinel-server",
+  "version": "3.0.0",
+  "private": true,
+  "description": "BrandSentinel API: evidence-grounded brand governance before publication",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node src/seed.js",
+    "test": "cross-env NODE_ENV=test DB_DRIVER=memory node --test \"test/*.test.js\"",
+    "eval": "cross-env NODE_ENV=test DB_DRIVER=memory node eval/run.js",
+    "test:mongo": "cross-env NODE_ENV=test DB_DRIVER=mongo node --test test/api.test.js",
+    "db:check": "node scripts/db-check.js"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^8.7.3",
+    "helmet": "^8.3.0",
+    "jpeg-js": "^0.4.4",
+    "jsonwebtoken": "^9.0.2",
+    "jszip": "^3.10.1",
+    "mammoth": "^1.8.0",
+    "mongodb": "^6.22.0",
+    "multer": "^2.5.0",
+    "pdfjs-dist": "^4.10.38",
+    "pngjs": "^7.0.0",
+    "qrcode": "^1.5.4",
+    "sift": "^17.1.4"
+  }
+}

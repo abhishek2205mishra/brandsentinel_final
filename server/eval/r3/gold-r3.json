@@ -1,0 +1,3517 @@
+[
+ {
+  "id": 1,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Meet the new roast: nothing else comes near it.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 2,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "This weekend only, our unmatched in flavour blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 3,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Honestly, peerless crema. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 4,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: the supreme espresso!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 5,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: second to none.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 6,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, a class above every other roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 7,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Meet the new roast: finest beans in India.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 8,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "This weekend only, our the ultimate cup blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 9,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Honestly, unparalleled smoothness. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 10,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: no one does it better!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 11,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: unrivalled aroma.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 12,
+  "split": "dev",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, world class taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 13,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "Meet the new roast: it supports your immune system.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 14,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "This weekend only, our detoxifies your body blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 15,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "Honestly, helps you lose weight. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 16,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "Fresh from our roastery: burns fat while you sip!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 17,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "Why customers keep coming back: lowers cholesterol.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 18,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "Introducing our cold brew, doctor recommended.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 19,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "Meet the new roast: a cure for tiredness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 20,
+  "split": "dev",
+  "group": "claims-health",
+  "text": "This weekend only, our boosts metabolism blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 21,
+  "split": "dev",
+  "group": "claims-env",
+  "text": "Meet the new roast: planet friendly packaging.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 22,
+  "split": "dev",
+  "group": "claims-env",
+  "text": "This weekend only, our zero waste roastery blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 23,
+  "split": "dev",
+  "group": "claims-env",
+  "text": "Honestly, guilt free coffee. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 24,
+  "split": "dev",
+  "group": "claims-env",
+  "text": "Fresh from our roastery: climate positive brewing!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 25,
+  "split": "dev",
+  "group": "claims-env",
+  "text": "Why customers keep coming back: eco friendly pods.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 26,
+  "split": "dev",
+  "group": "claims-stat",
+  "text": "Meet the new roast: studies show it improves focus.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 27,
+  "split": "dev",
+  "group": "claims-stat",
+  "text": "This weekend only, our experts agree it is smoother blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 28,
+  "split": "dev",
+  "group": "claims-stat",
+  "text": "Honestly, nine out of ten prefer it. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 29,
+  "split": "dev",
+  "group": "claims-stat",
+  "text": "Fresh from our roastery: scientifically proven freshness!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 30,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "Meet the new roast: sabse behtareen coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 31,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "This weekend only, our sabse accha taste blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 32,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "Honestly, pakka guarantee ke saath. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 33,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "Fresh from our roastery: bilkul safe aur natural!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 34,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "Why customers keep coming back: number ek roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 35,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "Introducing our cold brew, sabse badhiya blend.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 36,
+  "split": "dev",
+  "group": "hinglish",
+  "text": "Meet the new roast: doosron se behtar swaad.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 37,
+  "split": "dev",
+  "group": "devanagari",
+  "text": "हमारी कॉफी सबसे अच्छी है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 38,
+  "split": "dev",
+  "group": "devanagari",
+  "text": "यह ब्लेंड बेमिसाल है, हमारा स्वाद लें।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 39,
+  "split": "dev",
+  "group": "devanagari",
+  "text": "हमारा रोस्ट सबसे बेहतरीन है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 40,
+  "split": "dev",
+  "group": "devanagari",
+  "text": "पक्की गारंटी के साथ हमारी कॉफी आज़माएँ।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 41,
+  "split": "dev",
+  "group": "devanagari",
+  "text": "हमारी कॉफी पूरी तरह प्राकृतिक और शुद्ध है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 42,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Our unb3atable roast is here.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 43,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Try our u n m a t c h e d blend.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 44,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Our blend is ​unrivalled​ in India.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 45,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Our b.e.s.t coffee yet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 46,
+  "split": "dev",
+  "group": "evasion",
+  "text": "We pеrfected the finest roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 47,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Our 5upreme roast ships today.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 48,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Our blend is the numb3r one choice.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 49,
+  "split": "dev",
+  "group": "evasion",
+  "text": "Try the ultimate cup, wor1d class taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 50,
+  "split": "dev",
+  "group": "terminology",
+  "text": "Our cheaper blend is here.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 51,
+  "split": "dev",
+  "group": "terminology",
+  "text": "We black-listed the old supplier.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 52,
+  "split": "dev",
+  "group": "terminology",
+  "text": "Wheelchair bound customers are welcome.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 53,
+  "split": "dev",
+  "group": "terminology",
+  "text": "Great for every coffee addict out there.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 54,
+  "split": "dev",
+  "group": "terminology",
+  "text": "Hamara sasta aur accha coffee pack.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 55,
+  "split": "dev",
+  "group": "terminology",
+  "text": "The man power at our roastery is growing.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 56,
+  "split": "dev",
+  "group": "terminology",
+  "text": "A white listed partner shipped it.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 57,
+  "split": "dev",
+  "group": "terminology",
+  "text": "The housewife favourite is back.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 58,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "We never claim to be the best; we just roast carefully.",
+  "expect": []
+ },
+ {
+  "id": 59,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Best wishes from all of us at the roastery.",
+  "expect": []
+ },
+ {
+  "id": 60,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "We do our best every morning.",
+  "expect": []
+ },
+ {
+  "id": 61,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Our rivals say they are unbeatable; we simply focus on our craft.",
+  "expect": []
+ },
+ {
+  "id": 62,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Pure joy in every sip.",
+  "expect": []
+ },
+ {
+  "id": 63,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Is any coffee the ultimate? We do not think so.",
+  "expect": []
+ },
+ {
+  "id": 64,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "The ultimate guide to brewing at home.",
+  "expect": []
+ },
+ {
+  "id": 65,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Not the finest, just honest coffee.",
+  "expect": []
+ },
+ {
+  "id": 66,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "She is the best barista we know, said a regular.",
+  "expect": []
+ },
+ {
+  "id": 67,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "At best, a good cup is a small pleasure.",
+  "expect": []
+ },
+ {
+  "id": 68,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "We cannot say it cures anything. It is just coffee.",
+  "expect": []
+ },
+ {
+  "id": 69,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "We do not promise miracles.",
+  "expect": []
+ },
+ {
+  "id": 70,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Customers describe it as smooth.",
+  "expect": []
+ },
+ {
+  "id": 71,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "Number one rule of brewing: use fresh water.",
+  "expect": []
+ },
+ {
+  "id": 72,
+  "split": "dev",
+  "group": "adversarial-clean",
+  "text": "A sustainable growth plan is on our board agenda.",
+  "expect": []
+ },
+ {
+  "id": 73,
+  "split": "dev",
+  "group": "plain-clean",
+  "text": "Meet the new roast: a medium roast with notes of cocoa.",
+  "expect": []
+ },
+ {
+  "id": 74,
+  "split": "dev",
+  "group": "plain-clean",
+  "text": "This weekend only, our roasted in small batches blend lands in your cup.",
+  "expect": []
+ },
+ {
+  "id": 75,
+  "split": "dev",
+  "group": "plain-clean",
+  "text": "Honestly, brewed in about four minutes. Taste it yourself.",
+  "expect": []
+ },
+ {
+  "id": 76,
+  "split": "dev",
+  "group": "plain-clean",
+  "text": "Fresh from our roastery: packed in 250g bags!",
+  "expect": []
+ },
+ {
+  "id": 77,
+  "split": "dev",
+  "group": "plain-clean",
+  "text": "Why customers keep coming back: made for slow mornings.",
+  "expect": []
+ },
+ {
+  "id": 78,
+  "split": "dev",
+  "group": "plain-clean",
+  "text": "Introducing our cold brew, available in whole bean or ground.",
+  "expect": []
+ },
+ {
+  "id": 79,
+  "split": "dev",
+  "group": "hinglish-clean",
+  "text": "Aaj ka roast cocoa aur caramel ke swaad ke saath.",
+  "expect": []
+ },
+ {
+  "id": 80,
+  "split": "dev",
+  "group": "hinglish-clean",
+  "text": "Hamare saath subah ki chai nahi, coffee piyein.",
+  "expect": []
+ },
+ {
+  "id": 81,
+  "split": "dev",
+  "group": "hinglish-clean",
+  "text": "हमारी नई ब्रूइंग गाइड पढ़ें।",
+  "expect": []
+ },
+ {
+  "id": 82,
+  "split": "dev",
+  "group": "hinglish-clean",
+  "text": "Kal subah 9 baje workshop hai.",
+  "expect": []
+ },
+ {
+  "id": 83,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Honestly, nobody roasts it better. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 84,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, nobody roasts it better.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 85,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Our newsletter this week: nobody roasts it better.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 86,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Wake up to nobody roasts it better.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 87,
+  "split": "test",
+  "group": "claims-en",
+  "text": "New on the shelf, incomparable richness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 88,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Gift a pack of this: incomparable richness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 89,
+  "split": "test",
+  "group": "claims-en",
+  "text": "This weekend only, our incomparable richness blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 90,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: incomparable richness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 91,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Meet the new roast: head and shoulders above the rest.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 92,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: head and shoulders above the rest!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 93,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Customers tell us: head and shoulders above the rest.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 94,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Straight from the roaster, head and shoulders above the rest.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 95,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, in a league of its own.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 96,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Our newsletter this week: in a league of its own.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 97,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Wake up to in a league of its own.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 98,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Honestly, in a league of its own. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 99,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Gift a pack of this: the gold standard of filter coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 100,
+  "split": "test",
+  "group": "claims-en",
+  "text": "This weekend only, our the gold standard of filter coffee blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 101,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: the gold standard of filter coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 102,
+  "split": "test",
+  "group": "claims-en",
+  "text": "New on the shelf, the gold standard of filter coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 103,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: unsurpassed freshness!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 104,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Customers tell us: unsurpassed freshness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 105,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Straight from the roaster, unsurpassed freshness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 106,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Meet the new roast: unsurpassed freshness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 107,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Our newsletter this week: the greatest cup in town.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 108,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Wake up to the greatest cup in town.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 109,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Honestly, the greatest cup in town. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 110,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, the greatest cup in town.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 111,
+  "split": "test",
+  "group": "claims-en",
+  "text": "This weekend only, our beyond compare blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 112,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: beyond compare.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 113,
+  "split": "test",
+  "group": "claims-en",
+  "text": "New on the shelf, beyond compare.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 114,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Gift a pack of this: beyond compare.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 115,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Customers tell us: topping every chart for taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 116,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Straight from the roaster, topping every chart for taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 117,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Meet the new roast: topping every chart for taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 118,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: topping every chart for taste!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 119,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Wake up to leagues ahead of any other roaster.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 120,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Honestly, leagues ahead of any other roaster. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 121,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, leagues ahead of any other roaster.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 122,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Our newsletter this week: leagues ahead of any other roaster.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 123,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: top notch beans.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 124,
+  "split": "test",
+  "group": "claims-en",
+  "text": "New on the shelf, top notch beans.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 125,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Gift a pack of this: top notch beans.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 126,
+  "split": "test",
+  "group": "claims-en",
+  "text": "This weekend only, our top notch beans blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 127,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Straight from the roaster, matchless flavour.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 128,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Meet the new roast: matchless flavour.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 129,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: matchless flavour!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 130,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Customers tell us: matchless flavour.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 131,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Honestly, unbeatable value. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 132,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, unbeatable value.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 133,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Our newsletter this week: unbeatable value.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 134,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Wake up to unbeatable value.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 135,
+  "split": "test",
+  "group": "claims-en",
+  "text": "New on the shelf, the pinnacle of coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 136,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Gift a pack of this: the pinnacle of coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 137,
+  "split": "test",
+  "group": "claims-en",
+  "text": "This weekend only, our the pinnacle of coffee blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 138,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: the pinnacle of coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 139,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Meet the new roast: flawless every time.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 140,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: flawless every time!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 141,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Customers tell us: flawless every time.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 142,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Straight from the roaster, flawless every time.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 143,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Introducing our cold brew, supreme quality.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 144,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Our newsletter this week: supreme quality.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 145,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Wake up to supreme quality.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 146,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Honestly, supreme quality. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 147,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Gift a pack of this: the very best you can buy.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 148,
+  "split": "test",
+  "group": "claims-en",
+  "text": "This weekend only, our the very best you can buy blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 149,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Why customers keep coming back: the very best you can buy.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 150,
+  "split": "test",
+  "group": "claims-en",
+  "text": "New on the shelf, the very best you can buy.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 151,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Fresh from our roastery: class leading flavour!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 152,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Customers tell us: class leading flavour.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 153,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Straight from the roaster, class leading flavour.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 154,
+  "split": "test",
+  "group": "claims-en",
+  "text": "Meet the new roast: class leading flavour.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 155,
+  "split": "test",
+  "group": "claims-health",
+  "text": "This weekend only, our it boosts your immunity blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 156,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Why customers keep coming back: it boosts your immunity.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 157,
+  "split": "test",
+  "group": "claims-health",
+  "text": "New on the shelf, it boosts your immunity.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 158,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Gift a pack of this: it boosts your immunity.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 159,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Customers tell us: detox your body in a week.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 160,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Straight from the roaster, detox your body in a week.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 161,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Meet the new roast: detox your body in a week.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 162,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Fresh from our roastery: detox your body in a week!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 163,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Wake up to melts fat quickly.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 164,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Honestly, melts fat quickly. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 165,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Introducing our cold brew, melts fat quickly.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 166,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Our newsletter this week: melts fat quickly.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 167,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Why customers keep coming back: helps control diabetes.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 168,
+  "split": "test",
+  "group": "claims-health",
+  "text": "New on the shelf, helps control diabetes.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 169,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Gift a pack of this: helps control diabetes.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 170,
+  "split": "test",
+  "group": "claims-health",
+  "text": "This weekend only, our helps control diabetes blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 171,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Straight from the roaster, prevents disease.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 172,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Meet the new roast: prevents disease.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 173,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Fresh from our roastery: prevents disease!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 174,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Customers tell us: prevents disease.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 175,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Honestly, clinically tested to heal. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 176,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Introducing our cold brew, clinically tested to heal.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 177,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Our newsletter this week: clinically tested to heal.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 178,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Wake up to clinically tested to heal.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 179,
+  "split": "test",
+  "group": "claims-health",
+  "text": "New on the shelf, medically proven benefits.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 180,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Gift a pack of this: medically proven benefits.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 181,
+  "split": "test",
+  "group": "claims-health",
+  "text": "This weekend only, our medically proven benefits blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 182,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Why customers keep coming back: medically proven benefits.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 183,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Meet the new roast: reduces anxiety instantly.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 184,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Fresh from our roastery: reduces anxiety instantly!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 185,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Customers tell us: reduces anxiety instantly.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 186,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Straight from the roaster, reduces anxiety instantly.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 187,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Introducing our cold brew, a natural cure for headaches.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 188,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Our newsletter this week: a natural cure for headaches.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 189,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Wake up to a natural cure for headaches.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 190,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Honestly, a natural cure for headaches. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 191,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Gift a pack of this: strengthens immunity.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 192,
+  "split": "test",
+  "group": "claims-health",
+  "text": "This weekend only, our strengthens immunity blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 193,
+  "split": "test",
+  "group": "claims-health",
+  "text": "Why customers keep coming back: strengthens immunity.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 194,
+  "split": "test",
+  "group": "claims-health",
+  "text": "New on the shelf, strengthens immunity.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 195,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Fresh from our roastery: kind to the planet!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 196,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Customers tell us: kind to the planet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 197,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Straight from the roaster, kind to the planet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 198,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Meet the new roast: kind to the planet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 199,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Our newsletter this week: a net zero coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 200,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Wake up to a net zero coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 201,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Honestly, a net zero coffee. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 202,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Introducing our cold brew, a net zero coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 203,
+  "split": "test",
+  "group": "claims-env",
+  "text": "This weekend only, our plastic free pouches blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 204,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Why customers keep coming back: plastic free pouches.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 205,
+  "split": "test",
+  "group": "claims-env",
+  "text": "New on the shelf, plastic free pouches.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 206,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Gift a pack of this: plastic free pouches.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 207,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Customers tell us: carbon free roasting.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 208,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Straight from the roaster, carbon free roasting.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 209,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Meet the new roast: carbon free roasting.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 210,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Fresh from our roastery: carbon free roasting!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 211,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Wake up to good for the planet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 212,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Honestly, good for the planet. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 213,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Introducing our cold brew, good for the planet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 214,
+  "split": "test",
+  "group": "claims-env",
+  "text": "Our newsletter this week: good for the planet.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 215,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "This weekend only, our research shows it keeps you alert blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 216,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Why customers keep coming back: research shows it keeps you alert.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 217,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "New on the shelf, research shows it keeps you alert.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 218,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Gift a pack of this: research shows it keeps you alert.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 219,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Customers tell us: backed by science.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 220,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Straight from the roaster, backed by science.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 221,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Meet the new roast: backed by science.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 222,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Fresh from our roastery: backed by science!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 223,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Wake up to most people prefer our taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 224,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Honestly, most people prefer our taste. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 225,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Introducing our cold brew, most people prefer our taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 226,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Our newsletter this week: most people prefer our taste.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 227,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Why customers keep coming back: tests prove it is fresher.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 228,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "New on the shelf, tests prove it is fresher.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 229,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Gift a pack of this: tests prove it is fresher.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 230,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "This weekend only, our tests prove it is fresher blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 231,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Straight from the roaster, proven results in a month.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 232,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Meet the new roast: proven results in a month.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 233,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Fresh from our roastery: proven results in a month!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 234,
+  "split": "test",
+  "group": "claims-stat",
+  "text": "Customers tell us: proven results in a month.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 235,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Why customers keep coming back: better than other brands.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 236,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "New on the shelf, better than other brands.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 237,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Gift a pack of this: better than other brands.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 238,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "This weekend only, our better than other brands blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 239,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Straight from the roaster, it outperforms every competitor.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 240,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Meet the new roast: it outperforms every competitor.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 241,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Fresh from our roastery: it outperforms every competitor!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 242,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Customers tell us: it outperforms every competitor.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 243,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Honestly, miles ahead of the competition. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 244,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Introducing our cold brew, miles ahead of the competition.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 245,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Our newsletter this week: miles ahead of the competition.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 246,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Wake up to miles ahead of the competition.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 247,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "New on the shelf, unlike other brands, nothing artificial.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 248,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Gift a pack of this: unlike other brands, nothing artificial.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 249,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "This weekend only, our unlike other brands, nothing artificial blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 250,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Why customers keep coming back: unlike other brands, nothing artificial.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 251,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Meet the new roast: superior to supermarket coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 252,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Fresh from our roastery: superior to supermarket coffee!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 253,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Customers tell us: superior to supermarket coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 254,
+  "split": "test",
+  "group": "claims-comparative",
+  "text": "Straight from the roaster, superior to supermarket coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 255,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Honestly, it never fails to delight. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 256,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Introducing our cold brew, it never fails to delight.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 257,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Our newsletter this week: it never fails to delight.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 258,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Wake up to it never fails to delight.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 259,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "New on the shelf, works every single time.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 260,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Gift a pack of this: works every single time.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 261,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "This weekend only, our works every single time blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 262,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Why customers keep coming back: works every single time.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 263,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Meet the new roast: completely risk free.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 264,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Fresh from our roastery: completely risk free!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 265,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Customers tell us: completely risk free.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 266,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Straight from the roaster, completely risk free.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 267,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Introducing our cold brew, zero risk of bitterness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 268,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Our newsletter this week: zero risk of bitterness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 269,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Wake up to zero risk of bitterness.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 270,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Honestly, zero risk of bitterness. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 271,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Gift a pack of this: foolproof brewing.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 272,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "This weekend only, our foolproof brewing blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 273,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Why customers keep coming back: foolproof brewing.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 274,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "New on the shelf, foolproof brewing.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 275,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Fresh from our roastery: guaranteed results at home!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 276,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Customers tell us: guaranteed results at home.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 277,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Straight from the roaster, guaranteed results at home.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 278,
+  "split": "test",
+  "group": "claims-absolute",
+  "text": "Meet the new roast: guaranteed results at home.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 279,
+  "split": "test",
+  "group": "hinglish",
+  "text": "This weekend only, our sabse achha coffee blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 280,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Why customers keep coming back: sabse achha coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 281,
+  "split": "test",
+  "group": "hinglish",
+  "text": "New on the shelf, sabse achha coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 282,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Gift a pack of this: sabse achha coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 283,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Customers tell us: sabse best roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 284,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Straight from the roaster, sabse best roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 285,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Meet the new roast: sabse best roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 286,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Fresh from our roastery: sabse best roast!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 287,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Wake up to bilkul natural coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 288,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Honestly, bilkul natural coffee. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 289,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Introducing our cold brew, bilkul natural coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 290,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Our newsletter this week: bilkul natural coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 291,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Why customers keep coming back: kabhi fail nahi hone wala brew.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 292,
+  "split": "test",
+  "group": "hinglish",
+  "text": "New on the shelf, kabhi fail nahi hone wala brew.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 293,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Gift a pack of this: kabhi fail nahi hone wala brew.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 294,
+  "split": "test",
+  "group": "hinglish",
+  "text": "This weekend only, our kabhi fail nahi hone wala brew blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 295,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Straight from the roaster, doosron se behtar coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 296,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Meet the new roast: doosron se behtar coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 297,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Fresh from our roastery: doosron se behtar coffee!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 298,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Customers tell us: doosron se behtar coffee.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 299,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Honestly, paryavaran ke liye achha packaging. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 300,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Introducing our cold brew, paryavaran ke liye achha packaging.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 301,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Our newsletter this week: paryavaran ke liye achha packaging.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 302,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Wake up to paryavaran ke liye achha packaging.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 303,
+  "split": "test",
+  "group": "hinglish",
+  "text": "New on the shelf, sabse zyada pasand kiya gaya.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 304,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Gift a pack of this: sabse zyada pasand kiya gaya.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 305,
+  "split": "test",
+  "group": "hinglish",
+  "text": "This weekend only, our sabse zyada pasand kiya gaya blend lands in your cup.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 306,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Why customers keep coming back: sabse zyada pasand kiya gaya.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 307,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Meet the new roast: sabse behtareen swaad.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 308,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Fresh from our roastery: sabse behtareen swaad!",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 309,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Customers tell us: sabse behtareen swaad.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 310,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Straight from the roaster, sabse behtareen swaad.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 311,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Introducing our cold brew, guarantee ke saath fresh.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 312,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Our newsletter this week: guarantee ke saath fresh.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 313,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Wake up to guarantee ke saath fresh.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 314,
+  "split": "test",
+  "group": "hinglish",
+  "text": "Honestly, guarantee ke saath fresh. Taste it yourself.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 315,
+  "split": "test",
+  "group": "devanagari",
+  "text": "हमारी कॉफी सबसे बढ़िया है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 316,
+  "split": "test",
+  "group": "devanagari",
+  "text": "यह रोस्ट लाजवाब है, इसे आज़माएँ।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 317,
+  "split": "test",
+  "group": "devanagari",
+  "text": "हमारा ब्रांड नंबर एक है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 318,
+  "split": "test",
+  "group": "devanagari",
+  "text": "हमारी कॉफी पूरी तरह प्राकृतिक है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 319,
+  "split": "test",
+  "group": "devanagari",
+  "text": "यह हमारी कॉफी इम्युनिटी बढ़ाए।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 320,
+  "split": "test",
+  "group": "devanagari",
+  "text": "हमारी कॉफी सबसे आगे है, बाकी सबसे बेहतर।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 321,
+  "split": "test",
+  "group": "devanagari",
+  "text": "पर्यावरण के अनुकूल पैकिंग हमारी पहचान है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 322,
+  "split": "test",
+  "group": "devanagari",
+  "text": "हमारा ब्लेंड सबसे भरोसेमंद है।",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 323,
+  "split": "test",
+  "group": "evasion",
+  "text": "Try our unbea​table roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 324,
+  "split": "test",
+  "group": "evasion",
+  "text": "Our unp@ralleled blend ships today.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 325,
+  "split": "test",
+  "group": "evasion",
+  "text": "Our s e c o n d  t o  n o n e roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 326,
+  "split": "test",
+  "group": "evasion",
+  "text": "Introducing the ult1mate roast.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 327,
+  "split": "test",
+  "group": "evasion",
+  "text": "Our blend is the f.i.n.e.s.t in India.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 328,
+  "split": "test",
+  "group": "evasion",
+  "text": "Our wоrld class roast (Cyrillic o).",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 329,
+  "split": "test",
+  "group": "evasion",
+  "text": "Our incompar­able blend.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 330,
+  "split": "test",
+  "group": "evasion",
+  "text": "Taste our unr1valled espresso.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 331,
+  "split": "test",
+  "group": "evasion",
+  "text": "The 5upreme cup from our roastery.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 332,
+  "split": "test",
+  "group": "evasion",
+  "text": "Our b e s t   i n   c l a s s blend.",
+  "expect": [
+   "claims"
+  ]
+ },
+ {
+  "id": 333,
+  "split": "test",
+  "group": "terminology",
+  "text": "Our dirt cheap pack is back.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 334,
+  "split": "test",
+  "group": "terminology",
+  "text": "Blacklisting that supplier was easy.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 335,
+  "split": "test",
+  "group": "terminology",
+  "text": "Confined to a wheelchair? We deliver.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 336,
+  "split": "test",
+  "group": "terminology",
+  "text": "For true coffee addicts only.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 337,
+  "split": "test",
+  "group": "terminology",
+  "text": "हमारा सस्ती कॉफी पैक।",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 338,
+  "split": "test",
+  "group": "terminology",
+  "text": "Our manning plan for the roastery is ready.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 339,
+  "split": "test",
+  "group": "terminology",
+  "text": "The chair man of our board joined.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 340,
+  "split": "test",
+  "group": "terminology",
+  "text": "This is for the housewives of India.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 341,
+  "split": "test",
+  "group": "terminology",
+  "text": "Handicap access is available at our cafe.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 342,
+  "split": "test",
+  "group": "terminology",
+  "text": "Our Nova-Brew roast is here.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 343,
+  "split": "test",
+  "group": "terminology",
+  "text": "Try the artisanal roast from NovaBrew.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 344,
+  "split": "test",
+  "group": "terminology",
+  "text": "A whitelisted retailer sells it.",
+  "expect": [
+   "terminology"
+  ]
+ },
+ {
+  "id": 345,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "We would never say we are the best; taste it and decide.",
+  "expect": []
+ },
+ {
+  "id": 346,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Best regards, the NovaBrew team.",
+  "expect": []
+ },
+ {
+  "id": 347,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Wishing you the best of luck on your exam!",
+  "expect": []
+ },
+ {
+  "id": 348,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Our competitors call themselves unrivalled. We let customers decide.",
+  "expect": []
+ },
+ {
+  "id": 349,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Pure bliss after a long week.",
+  "expect": []
+ },
+ {
+  "id": 350,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Is this the ultimate roast? We leave that to you.",
+  "expect": []
+ },
+ {
+  "id": 351,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Read our ultimate checklist for cleaning your grinder.",
+  "expect": []
+ },
+ {
+  "id": 352,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "We make no claim that coffee cures anything.",
+  "expect": []
+ },
+ {
+  "id": 353,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "No brand is perfect, and neither are we.",
+  "expect": []
+ },
+ {
+  "id": 354,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "A sustainable development goals report is on our site.",
+  "expect": []
+ },
+ {
+  "id": 355,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Our barista is the best at latte art, says a regular.",
+  "expect": []
+ },
+ {
+  "id": 356,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "At best, the weather is mixed this weekend.",
+  "expect": []
+ },
+ {
+  "id": 357,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "To the best of our knowledge the shipment leaves Monday.",
+  "expect": []
+ },
+ {
+  "id": 358,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Number one rule for brewing: rinse the filter.",
+  "expect": []
+ },
+ {
+  "id": 359,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "We do not say never fails; things sometimes go wrong.",
+  "expect": []
+ },
+ {
+  "id": 360,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Doctors recommend sleep; we recommend a coffee break.",
+  "expect": []
+ },
+ {
+  "id": 361,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "We are not the cheapest, and that is fine.",
+  "expect": []
+ },
+ {
+  "id": 362,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Nobody claims it is unbeatable, and we do not either.",
+  "expect": []
+ },
+ {
+  "id": 363,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "The finest details of the label are printed on the bag.",
+  "expect": []
+ },
+ {
+  "id": 364,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Our CEO is a personal best marathon runner.",
+  "expect": []
+ },
+ {
+  "id": 365,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "हम सबसे अच्छे होने का दावा नहीं करते।",
+  "expect": []
+ },
+ {
+  "id": 366,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Hum sabse behtareen hone ka daava nahi karte.",
+  "expect": []
+ },
+ {
+  "id": 367,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Bhai ka birthday hai, best wishes bhejna.",
+  "expect": []
+ },
+ {
+  "id": 368,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Customers say it tastes smooth, and we agree.",
+  "expect": []
+ },
+ {
+  "id": 369,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "An unbeatable price is something we cannot promise.",
+  "expect": []
+ },
+ {
+  "id": 370,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Pure Arabica beans from our partner farms.",
+  "expect": []
+ },
+ {
+  "id": 371,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Studies of coffee cherries began in 1700, the museum notes.",
+  "expect": []
+ },
+ {
+  "id": 372,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Our cafe offers the best seats by the window.",
+  "expect": []
+ },
+ {
+  "id": 373,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Voted favourite by our own team after a taste test.",
+  "expect": []
+ },
+ {
+  "id": 374,
+  "split": "test",
+  "group": "adversarial-clean",
+  "text": "Our ultimate frisbee team meets on Sunday.",
+  "expect": []
+ },
+ {
+  "id": 375,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Fresh from our roastery: a dark roast with notes of walnut!",
+  "expect": []
+ },
+ {
+  "id": 376,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Customers tell us: a dark roast with notes of walnut.",
+  "expect": []
+ },
+ {
+  "id": 377,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Straight from the roaster, a dark roast with notes of walnut.",
+  "expect": []
+ },
+ {
+  "id": 378,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Meet the new roast: a dark roast with notes of walnut.",
+  "expect": []
+ },
+ {
+  "id": 379,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Our newsletter this week: roasted this morning in Mumbai.",
+  "expect": []
+ },
+ {
+  "id": 380,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Wake up to roasted this morning in Mumbai.",
+  "expect": []
+ },
+ {
+  "id": 381,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Honestly, roasted this morning in Mumbai. Taste it yourself.",
+  "expect": []
+ },
+ {
+  "id": 382,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Introducing our cold brew, roasted this morning in Mumbai.",
+  "expect": []
+ },
+ {
+  "id": 383,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "This weekend only, our ground to order blend lands in your cup.",
+  "expect": []
+ },
+ {
+  "id": 384,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Why customers keep coming back: ground to order.",
+  "expect": []
+ },
+ {
+  "id": 385,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "New on the shelf, ground to order.",
+  "expect": []
+ },
+ {
+  "id": 386,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Gift a pack of this: ground to order.",
+  "expect": []
+ },
+ {
+  "id": 387,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Customers tell us: available in two pack sizes.",
+  "expect": []
+ },
+ {
+  "id": 388,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Straight from the roaster, available in two pack sizes.",
+  "expect": []
+ },
+ {
+  "id": 389,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Meet the new roast: available in two pack sizes.",
+  "expect": []
+ },
+ {
+  "id": 390,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Fresh from our roastery: available in two pack sizes!",
+  "expect": []
+ },
+ {
+  "id": 391,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Wake up to brewed for slow weekends.",
+  "expect": []
+ },
+ {
+  "id": 392,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Honestly, brewed for slow weekends. Taste it yourself.",
+  "expect": []
+ },
+ {
+  "id": 393,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Introducing our cold brew, brewed for slow weekends.",
+  "expect": []
+ },
+ {
+  "id": 394,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Our newsletter this week: brewed for slow weekends.",
+  "expect": []
+ },
+ {
+  "id": 395,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Why customers keep coming back: a washed Arabica from Coorg.",
+  "expect": []
+ },
+ {
+  "id": 396,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "New on the shelf, a washed Arabica from Coorg.",
+  "expect": []
+ },
+ {
+  "id": 397,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Gift a pack of this: a washed Arabica from Coorg.",
+  "expect": []
+ },
+ {
+  "id": 398,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "This weekend only, our a washed Arabica from Coorg blend lands in your cup.",
+  "expect": []
+ },
+ {
+  "id": 399,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Straight from the roaster, perfect for a French press.",
+  "expect": []
+ },
+ {
+  "id": 400,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Meet the new roast: perfect for a French press.",
+  "expect": []
+ },
+ {
+  "id": 401,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Fresh from our roastery: perfect for a French press!",
+  "expect": []
+ },
+ {
+  "id": 402,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Customers tell us: perfect for a French press.",
+  "expect": []
+ },
+ {
+  "id": 403,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Honestly, with a hint of orange peel. Taste it yourself.",
+  "expect": []
+ },
+ {
+  "id": 404,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Introducing our cold brew, with a hint of orange peel.",
+  "expect": []
+ },
+ {
+  "id": 405,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Our newsletter this week: with a hint of orange peel.",
+  "expect": []
+ },
+ {
+  "id": 406,
+  "split": "test",
+  "group": "plain-clean",
+  "text": "Wake up to with a hint of orange peel.",
+  "expect": []
+ },
+ {
+  "id": 407,
+  "split": "test",
+  "group": "hinglish-clean",
+  "text": "Is hafte ka roast chocolate aur nuts ke swaad ke saath.",
+  "expect": []
+ },
+ {
+  "id": 408,
+  "split": "test",
+  "group": "hinglish-clean",
+  "text": "Subah ka brew guide hamare blog par padhein.",
+  "expect": []
+ },
+ {
+  "id": 409,
+  "split": "test",
+  "group": "hinglish-clean",
+  "text": "Aaj shaam 6 baje cafe band rahega.",
+  "expect": []
+ },
+ {
+  "id": 410,
+  "split": "test",
+  "group": "hinglish-clean",
+  "text": "हमारी वर्कशॉप शनिवार को है।",
+  "expect": []
+ },
+ {
+  "id": 411,
+  "split": "test",
+  "group": "hinglish-clean",
+  "text": "आपके ऑर्डर का इंतज़ार रहेगा।",
+  "expect": []
+ }
+]

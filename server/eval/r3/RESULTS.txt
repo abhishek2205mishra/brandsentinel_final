@@ -1,0 +1,39 @@
+| Set | Samples | Baseline P | Baseline R | New P | New R | Baseline F1 | New F1 |
+|---|---|---|---|---|---|---|---|
+| legacy (60, regression) | 60 | 100.0% | 100.0% | 100.0% | 100.0% | 1 | 1 |
+| dev (tuned on) | 82 | 59.3% | 28.1% | 100.0% | 94.7% | 0.381 | 0.973 |
+| TEST (held-out) | 329 | 73.9% | 24.8% | 95.3% | 84.4% | 0.371 | 0.895 |
+
+TEST by group (recall/precision counts: tp fp fn) baseline -> new
+  claims-en            n=72  base tp12 fp0 fn60  ->  new tp40 fp0 fn32
+  claims-health        n=40  base tp16 fp0 fn24  ->  new tp36 fp0 fn4
+  claims-env           n=20  base tp4 fp0 fn16  ->  new tp20 fp0 fn0
+  claims-stat          n=20  base tp0 fp0 fn20  ->  new tp20 fp0 fn0
+  claims-comparative   n=20  base tp4 fp0 fn16  ->  new tp20 fp0 fn0
+  claims-absolute      n=24  base tp16 fp0 fn8  ->  new tp24 fp0 fn0
+  hinglish             n=36  base tp8 fp0 fn28  ->  new tp36 fp0 fn0
+  devanagari           n=8   base tp0 fp0 fn8  ->  new tp8 fp0 fn0
+  evasion              n=10  base tp0 fp0 fn10  ->  new tp6 fp0 fn4
+  terminology          n=12  base tp5 fp0 fn7  ->  new tp11 fp0 fn1
+  adversarial-clean    n=30  base tp0 fp19 fn0  ->  new tp0 fp7 fn0
+  plain-clean          n=32  base tp0 fp4 fn0  ->  new tp0 fp4 fn0
+  hinglish-clean       n=5   base tp0 fp0 fn0  ->  new tp0 fp0 fn0
+
+Clean samples passing (no finding): baseline 44/67 -> new 56/67
+Simulated feedback: tone.hype dismissed ~90%; claims.superlative ALSO dismissed 100% (to test the safety rail)
+
+| Feedback events | Hype findings shown as live warnings | Hype avg confidence | Claim findings shown live | Claim avg confidence |
+|---|---|---|---|---|
+| 0 | 8/8 | 0.88 | 2/2 | 0.8 |
+| 5 | 8/8 | 0.61 | 2/2 | 0.69 |
+| 10 | 0/8 | 0.57 | 2/2 | 0.65 |
+| 20 | 0/8 | 0.5 | 2/2 | 0.63 |
+| 40 | 0/8 | 0.46 | 2/2 | 0.61 |
+
+Learned table:
+  tone.hype | VOICE-3 | pos 5 neg 36 p=0.178 silenced
+  claims.superlative | CLAIM-1 | pos 0 neg 40 p=0.068 mixed (protected)
+  tone.exclaim | VOICE-1 | pos 1 neg 5 p=0.4 mixed
+  a11y.hashtag | ACC-1 | pos 0 neg 2 p=0.5 learning
+  terminology.banned | MSG-3 | pos 1 neg 0 p=0.8 learning
+  facts.conflict | FACT-1 | pos 1 neg 0 p=0.8 learning (protected)
